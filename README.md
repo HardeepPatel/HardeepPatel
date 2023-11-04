@@ -10,16 +10,16 @@
 
 ### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming | :black_heart: Cricket | :blue_heart: Football
   
-Computer Engineering Graduate 2020. I love ML and trying to learn more about Full Stack Web Development and Cyber Security. 
+Computer Engineering (2020-2024). I love ML and trying to learn more about Full Stack Web Development and Quantum Computing. 
 
-- :hammer_and_wrench: I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python. <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
-- :office: IBMer | Ex-TCSer
+- :hammer_and_wrench: I’m currently working on Quantum Machine Learning <img align="right" src="https://tenor.com/view/glitch-crypto-tech-computer-technology-gif-1778677542567010719" width="200" height="170">
+- :office: Product Management Intern @ Infibeam | Ex-Research Intern @ISRO, IIT-Roorkee
 - :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :question: Ask me about anything. I will try to help you as much as I can.
-- :microphone: Quote: "There is always time. You just have to find it."
+- :microphone: Quote: "Life is a story which you tell yourself, so atleast try make it worth telling."
 - :car: How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
