@@ -6,7 +6,7 @@
   
 
 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=HardeepPatel&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
   
@@ -14,30 +14,29 @@
   
 Computer Engineering (2020-2024). I love ML and trying to learn more about Full Stack Web Development and Quantum Computing. 
 
-- :hammer_and_wrench: I’m currently working on Quantum Machine Learning <img align="right" src="https://tenor.com/view/glitch-crypto-tech-computer-technology-gif-1778677542567010719" width="200" height="170">
-- :office: Product Management Intern @ Infibeam | Ex-Research Intern @ISRO, IIT-Roorkee
+- :hammer_and_wrench: I’m currently working on Quantum Machine Learning <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
+- :office: Product Management Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
 - :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :question: Ask me about anything. I will try to help you as much as I can.
 - :microphone: Quote: "Life is a story which you tell yourself, so atleast try make it worth telling."
 - :car: How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
-|---|---|---|---|---|---|
+| [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/icons8-github-94.png" alt="github logo" width="34">](https://github.com/HardeepPatel) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/hardeep-patel/) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/gmail.jpeg" alt="gmail logo" width="24">](hardeeppatel79967@gmail.com)
+|---|---|---|
 
 ----
 ### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amchuz)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HardeepPatel)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-![Amchuz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif" width="300" height="255">
+![HardeepPatel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HardeepPatel&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/llorando.gif" width="300" height="255">
  
-
 -------
 
 📊 **Weekly development breakdown**
@@ -52,18 +51,18 @@ No Activity tracked this Week
   
 **What I love**
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+| <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/coding.gif width="110" height="100"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/kohli.gif width="110" height="100"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/ronaldo-sigma-ronaldo.gif width="110" height="100"> | 
 | :---: | :---: | :---: |
-| <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
+| <b>Coding</b> | <b>Cricket</b> | <b>Football</b> |
 
   
-**Favorites of Favorites** (*Trying clicking them, there is a suprise hidden in one of them.*)
+**Skills** 
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/python.gif width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/bts.gif width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/gg.gif width="85" height="90"> | <a href="https://www.youtube.com/watch?v=7C2z4GqqS5E" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/fl.gif width="90" height="85"></a> | <img src=https://github.com/Amchuz/Amchuz/blob/master/fairytail.gif width="100" height="85"> | <a href="https://www.youtube.com/watch?v=IcseamG7ReY" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/naruto.gif width="85" height="85"></a> | 
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Favorite Language - Python </b> | <b>K-pop Boy Group - BTS</b> | <b>K-pop Girl Group - SNSD </b> | <b>K-pop song - BTS Fake Love</b> | <b>Anime - Fairy Tail</b> | <b>Anime OST - Naruto Wind</b> | 
+| <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/python.gif width="85" height="85"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/react.gif width="85" height="85"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/c-plus-plus-logo.png width="85" height="90"> |<img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/nodejs.gif width="90" height="85"></a> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/mongodb.gif width="100" height="85"> |  
+| :---: | :---: | :---: | :---: | :---: |
+
 
   
 <p align="center">
- <img src="https://github.com/Amchuz/Amchuz/blob/master/rolling.gif">
+ <img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/sword-art-online-sao.gif">
 </p>
