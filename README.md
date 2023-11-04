@@ -8,7 +8,7 @@
 
   ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
+### Hello   <img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/1.png" width="120px">
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
   
