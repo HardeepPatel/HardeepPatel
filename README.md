@@ -12,10 +12,10 @@
   
 :heart: Programming | :black_heart: Cricket | :blue_heart: Football
   
-Computer Engineering (2020-2024). I love ML and trying to learn more about Full Stack Web Development and Quantum Computing. 
+MSCS @ Arizona State University (Aug'24 - May'26). I love Full Stack Web Development and trying to learn more about ML and Product  Management. 
 
-- :hammer_and_wrench: I’m currently working on Quantum Machine Learning <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
-- :office: Product Management Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
+- :hammer_and_wrench: I’m currently looking for Summer 2025 Internship opportunities <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
+- :office: Ex- Product Management Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
 - :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :question: Ask me about anything. I will try to help you as much as I can.
