@@ -22,7 +22,7 @@ MSCS @ Arizona State University (Aug'24 - May'26). I love Full Stack Web Develop
 - :microphone: Quote: "Life is a story which you tell yourself, so atleast try make it worth telling."
 - :car: How to reach me:
 
-| [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/icons8-github-94.png" alt="github logo" width="34">](https://github.com/HardeepPatel) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/hardeep-patel/) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/gmail.jpeg" alt="gmail logo" width="24">](hardeeppatel79967@gmail.com)
+| [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/icons8-github-94.png" alt="github logo" width="34">](https://github.com/HardeepPatel) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/hardeep-patel/) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/gmail.jpeg" alt="gmail logo" width="24">](hdeeppatel@gmail.com)
 |---|---|---|
 
 ----
