@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/1.png">
 </p>
   
 .
-  
+   -->
 
 
   ![](https://komarev.com/ghpvc/?username=HardeepPatel&color=blue&style=flat-square&label=PROFILE+VIEWS)
@@ -15,7 +15,7 @@
 MSCS @ Arizona State University (Aug'24 - May'26). I love Full Stack Web Development and trying to learn more about ML and Product  Management. 
 
 - :hammer_and_wrench: I’m currently looking for 2026 Full Time opportunities <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
-- :office: Ex- Product Management Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
+- :office: Ex- Product SWE Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
 - :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :question: Ask me about anything. I will try to help you as much as I can.
