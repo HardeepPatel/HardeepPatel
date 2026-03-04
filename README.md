@@ -14,7 +14,7 @@
   
 MSCS @ Arizona State University (Aug'24 - May'26). I love Full Stack Web Development and trying to learn more about ML and Product  Management. 
 
-- :hammer_and_wrench: I’m currently looking for Summer 2025 Internship opportunities <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
+- :hammer_and_wrench: I’m currently looking for 2026 Full Time opportunities <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
 - :office: Ex- Product Management Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
 - :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
