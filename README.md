@@ -8,21 +8,59 @@
 
   ![](https://komarev.com/ghpvc/?username=HardeepPatel&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
-  
-:heart: Programming | :black_heart: Cricket | :blue_heart: Football
-  
-MSCS @ Arizona State University (Aug'24 - May'26). I love Full Stack Web Development and trying to learn more about ML and Product  Management. 
+### Hello 👋  
 
-- :hammer_and_wrench: I’m currently looking for 2026 Full Time opportunities <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
-- :office: Ex- Product SWE Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
-- :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
-- :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :question: Ask me about anything. I will try to help you as much as I can.
-- :microphone: Quote: "Life is a story which you tell yourself, so atleast try make it worth telling."
-- :car: How to reach me:
+❤️ Programming | 🖤 Cricket | 💙 Football  
 
-| [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/icons8-github-94.png" alt="github logo" width="34">](https://github.com/HardeepPatel) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/hardeep-patel/) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/gmail.jpeg" alt="gmail logo" width="24">](hdeeppatel@gmail.com)
+🎓 MS in Computer Science @ Arizona State University (Aug 2024 – May 2026)  
+
+I’m passionate about **Full Stack Development, Machine Learning, and building intelligent systems**.  
+Currently exploring **Agentic AI** and actively working on incorporating **AI Agents into real-world applications**.
+
+---
+
+### 🚀 What I’m Focused On
+
+- 🔎 Seeking **2026 Full-Time Software Engineering / ML Engineering opportunities**
+- 🤖 Exploring **Agentic AI, Autonomous Systems & AI Agents**
+- 🌐 Building scalable **Full Stack Applications**
+- ☁️ Working with **Cloud & Distributed Systems**
+- 📊 Advancing in **Machine Learning & Data Science**
+
+---
+
+### 💼 Experience
+
+- 🏢 Product Software Engineering Intern @ Infibeam Avenues  
+- 🛰 Research Intern @ ISRO  
+- 🎓 Research Intern @ IIT Roorkee  
+
+---
+
+### 🤝 Open To Collaborate On
+
+- ML & AI Projects  
+- AI Agent-based Applications  
+- Full Stack Web Development  
+- Product-focused Engineering Projects  
+
+---
+
+### 💬 Ask Me About
+
+Full Stack Development | Machine Learning | AI Agents | System Design | Career Growth  
+
+---
+
+### ✨ Quote I Live By  
+
+> "Life is a story you tell yourself — so at least try to make it worth telling."
+
+---
+
+### 📫 Reach Me At
+
+| [GitHub](https://github.com/HardeepPatel) | [LinkedIn](https://www.linkedin.com/in/hardeep-patel/) | Email: hdeeppatel@gmail.com |
 |---|---|---|
 
 ----
