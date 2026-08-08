@@ -1,106 +1,94 @@
-<!-- <p align="center">
-  <img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/1.png">
-</p>
-  
-.
-   -->
+# Hello 👋 I'm Hardeep Patel
 
+**Software Engineer | Backend & Distributed Systems | AI Infrastructure | Python | Java | JavaScript**
 
-  ![](https://komarev.com/ghpvc/?username=HardeepPatel&color=blue&style=flat-square&label=PROFILE+VIEWS)
+I’m a Software Engineer based in San Francisco, focused on building scalable backend systems, distributed applications, and AI infrastructure.
 
-### Hello 👋  
+Currently, I’m a **Founding Engineer at Context Labs**, where I build enterprise AI infrastructure using **Python, REST APIs, PostgreSQL, Microsoft Azure, RAG, Knowledge Graphs, and LLM Agents**. My work includes architecting agent memory systems, building cloud-based data ingestion pipelines, and shipping customer-facing AI products.
 
-❤️ Programming | 🖤 Cricket | 💙 Football  
-
-🎓 MS in Computer Science @ Arizona State University (Aug 2024 – May 2026)  
-
-I’m passionate about **Full Stack Development, Machine Learning, and building intelligent systems**.  
-Currently exploring **Agentic AI** and actively working on incorporating **AI Agents into real-world applications**.
+I recently completed my **M.S. in Computer Science at Arizona State University (GPA: 3.93/4.00)**, with coursework in Distributed Systems, Algorithms, and Machine Learning.
 
 ---
 
-### 🚀 What I’m Focused On
+### 🚀 What I'm Working On
 
-- 🔎 Seeking **2026 Full-Time Software Engineering / ML Engineering opportunities**
-- 🤖 Exploring **Agentic AI, Autonomous Systems & AI Agents**
-- 🌐 Building scalable **Full Stack Applications**
-- ☁️ Working with **Cloud & Distributed Systems**
-- 📊 Advancing in **Machine Learning & Data Science**
+* Building **AI infrastructure, RAG systems, Knowledge Graphs, and LLM Agents**
+* Engineering scalable **Backend APIs and Distributed Systems**
+* Developing production systems across **AWS, Microsoft Azure, and GCP**
+* Exploring **Agentic AI, memory systems, and context-aware applications**
+* Designing reliable systems with **Python, Java, JavaScript/TypeScript, and Go**
 
 ---
 
 ### 💼 Experience
 
-- 🏢 Product Software Engineering Intern @ Infibeam Avenues  
-- 🛰 Research Intern @ ISRO  
-- 🎓 Research Intern @ IIT Roorkee  
+* **Founding Engineer @ Context Labs**
+
+  * Building enterprise AI infrastructure, agent memory systems, and data ingestion pipelines
+
+* **Software Engineering Intern @ Toya Agrisolutions**
+
+  * Built backend systems supporting **500K+ registered farmers** and reduced API latency by **40%**
+
+* **Product SWE Intern @ Infibeam Avenues**
+
+  * Built cloud monitoring systems supporting **2M+ payment transactions/month**
+
+* **ML Engineer Intern @ ISRO**
+
+  * Developed flood forecasting systems with **88% accuracy** and **2-hour earlier warnings**
+
+* **Research Intern @ IIT Roorkee**
+
+  * Optimized dynamic graph algorithms in **C++**
 
 ---
 
-### 🤝 Open To Collaborate On
+### 🛠️ Technical Focus
 
-- ML & AI Projects  
-- AI Agent-based Applications  
-- Full Stack Web Development  
-- Product-focused Engineering Projects  
+**Languages:** Python · Java · JavaScript/TypeScript · C++ · Go · SQL
+
+**Backend:** Node.js · Express.js · FastAPI · Spring Boot · Flask · Django · REST APIs · gRPC
+
+**Cloud & Infrastructure:** AWS · Microsoft Azure · GCP · Docker · Kubernetes · Terraform · CI/CD
+
+**Data & Distributed Systems:** PostgreSQL · MongoDB · Redis · Kafka · Apache Spark · Paxos/Multi-Paxos · 2PC
+
+**AI & Agentic Systems:** RAG · LLM Agents · Knowledge Graphs · LangChain · LangGraph · MCP
 
 ---
 
-### 💬 Ask Me About
+### 🔨 Featured Work
 
-Full Stack Development | Machine Learning | AI Agents | System Design | Career Growth  
+* **Distributed Banking System** — Fault-tolerant distributed banking architecture using **Go, gRPC, Paxos/Multi-Paxos, and 2PC**
+* **Autonomous Caching Policy Evolution** — LLM-driven system generating and optimizing **C++/Rust cache replacement policies**
+* **Chat Analyzer** — NLP application using **Python, Flask, MongoDB, BERT, and spaCy**
 
 ---
 
-### ✨ Quote I Live By  
+### 🤝 Open To
+
+I’m interested in **Software Engineer, Backend Engineer, Distributed Systems, AI Infrastructure, and Full-Stack Software Engineer** opportunities.
+
+I especially enjoy working on problems involving **backend architecture, scalability, reliability, distributed systems, and production AI infrastructure**.
+
+---
+
+### 📫 Connect With Me
+
+| [GitHub](https://github.com/HardeepPatel) | [LinkedIn](https://www.linkedin.com/in/hardeep-patel/) | [hardeep.s.patel@gmail.com](mailto:hardeep.s.patel@gmail.com) |
+| ----------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------- |
+
+---
+
+### ✨ Quote I Live By
 
 > "Life is a story you tell yourself — so at least try to make it worth telling."
 
 ---
 
-### 📫 Reach Me At
+### 🎯 More About Me
 
-| [GitHub](https://github.com/HardeepPatel) | [LinkedIn](https://www.linkedin.com/in/hardeep-patel/) | Email: hdeeppatel@gmail.com |
-|---|---|---|
-
-----
-### Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HardeepPatel)](https://github.com/ryo-ma/github-profile-trophy)
-
-----
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
-  
-![HardeepPatel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HardeepPatel&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/llorando.gif" width="300" height="255">
- 
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
------
-  
-  
-**What I love**
-
-| <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/coding.gif width="110" height="100"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/kohli.gif width="110" height="100"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/ronaldo-sigma-ronaldo.gif width="110" height="100"> | 
-| :---: | :---: | :---: |
-| <b>Coding</b> | <b>Cricket</b> | <b>Football</b> |
-
-  
-**Skills** 
-
-| <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/python.gif width="85" height="85"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/react.gif width="85" height="85"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/c-plus-plus-logo.png width="85" height="90"> |<img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/nodejs.gif width="90" height="85"></a> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/mongodb.gif width="100" height="85"> |  
-| :---: | :---: | :---: | :---: | :---: |
-
-
-  
-<p align="center">
- <img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/sword-art-online-sao.gif">
-</p>
+* Programming
+* Cricket
+* Football
