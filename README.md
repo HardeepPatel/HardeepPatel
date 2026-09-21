@@ -4,7 +4,7 @@
 
 I’m a Software Engineer based in San Francisco, focused on building scalable backend systems, distributed applications, and AI infrastructure.
 
-Currently, I’m a **Founding Engineer at Context Labs**, where I build enterprise AI infrastructure using **Python, REST APIs, PostgreSQL, Microsoft Azure, RAG, Knowledge Graphs, and LLM Agents**. My work includes architecting agent memory systems, building cloud-based data ingestion pipelines, and shipping customer-facing AI products.
+Currently, I’m working on a project called **Zeus**, where I am trying to biild enterprise AI infrastructure using **Python, REST APIs, PostgreSQL, Microsoft Azure, RAG, Knowledge Graphs, and LLM Agents**. My work includes architecting agent memory systems, building cloud-based data ingestion pipelines, and shipping customer-facing AI products.
 
 I recently completed my **M.S. in Computer Science at Arizona State University (GPA: 3.93/4.00)**, with coursework in Distributed Systems, Algorithms, and Machine Learning.
 
@@ -21,10 +21,6 @@ I recently completed my **M.S. in Computer Science at Arizona State University (
 ---
 
 ### 💼 Experience
-
-* **Founding Engineer @ Context Labs**
-
-  * Building enterprise AI infrastructure, agent memory systems, and data ingestion pipelines
 
 * **Software Engineering Intern @ Toya Agrisolutions**
 
