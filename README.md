@@ -1,90 +1,24 @@
-# Hello 👋 I'm Hardeep Patel
+# Hardeep Patel
 
-**Software Engineer | Backend & Distributed Systems | AI Infrastructure | Python | Java | JavaScript**
+Forward deployed software engineer. I sit with the customer's team, find the step that eats their time, and ship the backend or AI agent workflow that removes it.
 
-I’m a Software Engineer based in San Francisco, focused on building scalable backend systems, distributed applications, and AI infrastructure.
+**Now:** Forward Deployed Engineer at Atos, working on-site with an insurance client on claims automation.
 
-Currently, I’m working on a project called **Zeus**, where I am trying to biild enterprise AI infrastructure using **Python, REST APIs, PostgreSQL, Microsoft Azure, RAG, Knowledge Graphs, and LLM Agents**. My work includes architecting agent memory systems, building cloud-based data ingestion pipelines, and shipping customer-facing AI products.
+**Before:** Founding Software Engineer at Context Labs (RAG, knowledge graph, and computer-use agents on AWS).
 
-I recently completed my **M.S. in Computer Science at Arizona State University (GPA: 3.93/4.00)**, with coursework in Distributed Systems, Algorithms, and Machine Learning.
+## Selected work
 
----
+- **[Distributed Banking System](https://github.com/HardeepPatel/Distributed_Banking_System)**: sharded bank in Go with Multi-Paxos, gRPC, and two-phase commit. 80 TPS with linearizability.
+- **[PayPilot](https://github.com/HardeepPatel/PayPilot)**: autoresearch loop that optimizes feature placement on payment dashboards, with hard safety guardrails.
+- **[SentinelPay](https://github.com/HardeepPatel/SentinelPay)**: agentic payment security system that intercepts and evaluates transactions.
+- **Autonomous Caching Policy Evolution**: LLM loop that writes and refines C++/Rust cache-replacement policies in ChampSim. 11.09% better last-level cache hit rate than LRU.
 
-### 🚀 What I'm Working On
+## Stack
 
-* Building **AI infrastructure, RAG systems, Knowledge Graphs, and LLM Agents**
-* Engineering scalable **Backend APIs and Distributed Systems**
-* Developing production systems across **AWS, Microsoft Azure, and GCP**
-* Exploring **Agentic AI, memory systems, and context-aware applications**
-* Designing reliable systems with **Python, Java, JavaScript/TypeScript, and Go**
+Python, TypeScript, Go, SQL · FastAPI, Node.js, React · AWS, Azure, Docker, Kubernetes · RAG, LLM agents, knowledge graphs · PostgreSQL, Kafka
 
----
+## Background
 
-### 💼 Experience
+M.S. Computer Science, Arizona State University (GPA 3.93). 5 peer-reviewed papers, 150+ citations.
 
-* **Software Engineering Intern @ Toya Agrisolutions**
-
-  * Built backend systems supporting **500K+ registered farmers** and reduced API latency by **40%**
-
-* **Product SWE Intern @ Infibeam Avenues**
-
-  * Built cloud monitoring systems supporting **2M+ payment transactions/month**
-
-* **ML Engineer Intern @ ISRO**
-
-  * Developed flood forecasting systems with **88% accuracy** and **2-hour earlier warnings**
-
-* **Research Intern @ IIT Roorkee**
-
-  * Optimized dynamic graph algorithms in **C++**
-
----
-
-### 🛠️ Technical Focus
-
-**Languages:** Python · Java · JavaScript/TypeScript · C++ · Go · SQL
-
-**Backend:** Node.js · Express.js · FastAPI · Spring Boot · Flask · Django · REST APIs · gRPC
-
-**Cloud & Infrastructure:** AWS · Microsoft Azure · GCP · Docker · Kubernetes · Terraform · CI/CD
-
-**Data & Distributed Systems:** PostgreSQL · MongoDB · Redis · Kafka · Apache Spark · Paxos/Multi-Paxos · 2PC
-
-**AI & Agentic Systems:** RAG · LLM Agents · Knowledge Graphs · LangChain · LangGraph · MCP
-
----
-
-### 🔨 Featured Work
-
-* **Distributed Banking System** — Fault-tolerant distributed banking architecture using **Go, gRPC, Paxos/Multi-Paxos, and 2PC**
-* **Autonomous Caching Policy Evolution** — LLM-driven system generating and optimizing **C++/Rust cache replacement policies**
-* **Chat Analyzer** — NLP application using **Python, Flask, MongoDB, BERT, and spaCy**
-
----
-
-### 🤝 Open To
-
-I’m interested in **Software Engineer, Backend Engineer, Distributed Systems, AI Infrastructure, and Full-Stack Software Engineer** opportunities.
-
-I especially enjoy working on problems involving **backend architecture, scalability, reliability, distributed systems, and production AI infrastructure**.
-
----
-
-### 📫 Connect With Me
-
-| [GitHub](https://github.com/HardeepPatel) | [LinkedIn](https://www.linkedin.com/in/hardeep-patel/) | [hardeep.s.patel@gmail.com](mailto:hardeep.s.patel@gmail.com) |
-| ----------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------- |
-
----
-
-### ✨ Quote I Live By
-
-> "Life is a story you tell yourself — so at least try to make it worth telling."
-
----
-
-### 🎯 More About Me
-
-* Programming
-* Cricket
-* Football
+[LinkedIn](https://linkedin.com/in/hardeep-patel) · [Portfolio](https://hardeeppatel.github.io) · hardeep.s.patel@gmail.com
